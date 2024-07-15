@@ -1,5 +1,3 @@
-import { styled } from "styled-components";
-
 export default function DueDateBox({ dueDate }: { dueDate: string }) {
   const getDueDate = (dueDate: string) => {
     const dueDateToDate = new Date(dueDate);

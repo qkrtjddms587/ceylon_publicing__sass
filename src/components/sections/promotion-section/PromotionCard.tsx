@@ -1,7 +1,4 @@
-import { styled } from "styled-components";
 import DueDateBox from "./DueDateBox";
-
-const Wrapper = styled.div``;
 
 interface PromotionCardProps {
   imagePath: string;

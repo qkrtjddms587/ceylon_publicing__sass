@@ -1,4 +1,3 @@
-import { styled } from "styled-components";
 import RecommendHeader from "./recommend-section/RecommendHeader";
 import RecommendCard from "./recommend-section/RecommendCard";
 import hotel1 from "../../images/resort/hotel_12.png";
